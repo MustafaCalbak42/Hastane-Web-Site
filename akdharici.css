@@ -1,0 +1,155 @@
+@charset "utf-8";
+.cerceve{
+	background-color: #FFF;
+	float: none;
+	width: 980px;
+	height:720px;
+}
+menuoge {
+	float: left;
+	height: 65px;
+	width: 980px;
+}
+
+
+.banner {
+	float: left;
+	height: 100px;
+	width: 980px;
+	background-image:url(resim/banner.jpg);
+	
+}
+.icerik {
+	float: left;
+	height:430px;
+	width: 980px;
+}
+.footer {
+	float: left;
+	width: 980px;
+	margin-top: 52px;
+	height: auto;
+}
+.trlogo{
+	width: 300;
+	height: 80px;
+	float: left;
+	margin-left: 360px;
+}
+.vmmenum {
+	float: left;
+	width: 650px;
+	margin-left: 20px;
+}
+.bölüm {
+	margin-top:20px;
+	margin-left:250px;
+	float: left;
+	width: 400px;
+	height:200px
+}
+.ortailce {
+	float: left;
+	width: 257.5px;
+}
+
+.sagilce {
+	float: right;
+	width: 210px;
+}
+
+
+.animasyon {
+	float: right;
+	height: 494px;
+	width: 300px;
+}
+.yazialani {
+	float:right;
+	height:400px;
+	width:580px;
+	margin-left:20px;
+	margin-top:30px;
+	
+}
+.yazialaniii {
+	float: left;
+	height:425px;
+	width:950px;
+	margin-top:15px;
+}
+
+
+.atolfoto{
+	float: left;
+	width: 127.5px;
+	background-color: #999;
+	height: 120.75px;
+	margin-top: 25px;
+	margin-right: 10px;
+	margin-left: 25px;
+		
+	
+}
+.traktor {
+	float: left;
+	height: 385px;
+	width: 350px;
+	margin-top: 30px;
+	margin-left:30px;
+}
+.yazilar {
+	font-size: 18px;
+	font-style: normal;
+}
+.baslik {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #FFF;
+	background-color: #09F;
+}
+#kutu{
+	margin-top: 20px;
+	margin-left:10px;
+	float: left;
+	height: 100px;
+	width: 150px;
+	background-color: #06F;
+}
+#kutu:hover{
+	height:100px;
+	width: 150px;
+	background-color: #F60;
+}
+#doktor{
+	margin-top: 30px;
+	margin-left:30px;
+	float: left;
+	height:25px;
+	width:250.8px;
+	background-color: #06F;
+}
+#iletisimyazi{
+	width:589px;
+	height:330px;
+	float:left;	
+	margin-left:11px;
+	margin-top:20px;
+}
+#iletişimbaslik{
+	width:auto;
+	height:auto;
+	background-color:#03F;
+	float:left;
+	margin-left:220px;
+}
+#harita{
+	width:50px;
+	height:50px;
+	float:left;
+		
+	
+		
+}
+
+
